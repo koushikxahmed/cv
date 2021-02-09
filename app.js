@@ -1,0 +1,1 @@
+console.log(Number.parseFloat("1213.3123"))
